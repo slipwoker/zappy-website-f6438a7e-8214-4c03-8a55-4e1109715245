@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://next-look-brands-f6438a7e.zappy5.app
+https://example.com
 גלו את הקולקציה החדשה של בגדי אופנה לגברים אונליין שמשלבת סטייל מוקפד ונוחות יומיומית. הצטרפו עכשיו לחוויית קנייה חכמה ומעוררת השראה.
 
 ### אוספים
-https://next-look-brands-f6438a7e.zappy5.app/collections
+https://example.com/collections
 דפדפו בין אוספים בלעדיים של מותגי אופנה לגברים ישראל שמביאים את הטרנדים המובילים אליכם. בחרו את הלוק הבא שלכם ותתחילו להתלבש אחרת.
 
 ### אודות
-https://next-look-brands-f6438a7e.zappy5.app/about
+https://example.com/about
 הכירו את הסיפור שמאחורי Next Look Brands, החזון שמניע אותנו להלביש גברים וילדים בסטייל מנצח. הצטרפו למשפחת הלקוחות המרוצים שלנו עוד היום.
 
 ### צור קשר
-https://next-look-brands-f6438a7e.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידות, משלוחים או חנות בגדים לילדים באינטרנט? צרו קשר ונשמח לעזור לכם למצוא את הפריטים המושלמים לכל המשפחה במענה מהיר ואישי.
 
 ### Products
-https://next-look-brands-f6438a7e.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Next look brands
 
 ### Cart
-https://next-look-brands-f6438a7e.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://next-look-brands-f6438a7e.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://next-look-brands-f6438a7e.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://next-look-brands-f6438a7e.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://next-look-brands-f6438a7e.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://next-look-brands-f6438a7e.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Next look brands
 
 ### Category
-https://next-look-brands-f6438a7e.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Next look brands
 
 ### תודה רבה - פנייתך התקבלה | Next Look Brands
-https://next-look-brands-f6438a7e.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. הודעתך התקבלה בהצלחה וצוות Next Look Brands יחזור אליך בהקדם. המשיכו לגלוש ולמצוא בגדי אופנה לגברים אונליין.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://next-look-brands-f6438a7e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://next-look-brands-f6438a7e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://next-look-brands-f6438a7e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -95,8 +95,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://next-look-brands-f6438a7e.zappy5.app/sitemap.xml
-- Robots: https://next-look-brands-f6438a7e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://next-look-brands-f6438a7e.zappy5.app/llms-full.txt
-- Products (JSON): https://next-look-brands-f6438a7e.zappy5.app/products.json
-- Products (Google Merchant RSS): https://next-look-brands-f6438a7e.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
