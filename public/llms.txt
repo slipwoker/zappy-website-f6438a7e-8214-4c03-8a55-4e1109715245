@@ -1,0 +1,102 @@
+# Next look brands — Generative Engine Optimization Map
+
+> צור לי אתר אונליין
+
+---
+
+## Pages
+
+### בית
+https://next-look-brands-f6438a7e.zappy5.app
+גלו את הקולקציה החדשה של בגדי אופנה לגברים אונליין שמשלבת סטייל מוקפד ונוחות יומיומית. הצטרפו עכשיו לחוויית קנייה חכמה ומעוררת השראה.
+
+### אוספים
+https://next-look-brands-f6438a7e.zappy5.app/collections
+דפדפו בין אוספים בלעדיים של מותגי אופנה לגברים ישראל שמביאים את הטרנדים המובילים אליכם. בחרו את הלוק הבא שלכם ותתחילו להתלבש אחרת.
+
+### אודות
+https://next-look-brands-f6438a7e.zappy5.app/about
+הכירו את הסיפור שמאחורי Next Look Brands, החזון שמניע אותנו להלביש גברים וילדים בסטייל מנצח. הצטרפו למשפחת הלקוחות המרוצים שלנו עוד היום.
+
+### צור קשר
+https://next-look-brands-f6438a7e.zappy5.app/contact
+יש שאלה על מידות, משלוחים או חנות בגדים לילדים באינטרנט? צרו קשר ונשמח לעזור לכם למצוא את הפריטים המושלמים לכל המשפחה במענה מהיר ואישי.
+
+### Products
+https://next-look-brands-f6438a7e.zappy5.app/products
+המוצרים שלנו - Next look brands
+
+### Cart
+https://next-look-brands-f6438a7e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://next-look-brands-f6438a7e.zappy5.app/checkout
+תשלום
+
+### Login
+https://next-look-brands-f6438a7e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://next-look-brands-f6438a7e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://next-look-brands-f6438a7e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://next-look-brands-f6438a7e.zappy5.app/product/:slug
+פרטי המוצר - Next look brands
+
+### Category
+https://next-look-brands-f6438a7e.zappy5.app/category/:slug
+מוצרים - Next look brands
+
+### תודה רבה - פנייתך התקבלה | Next Look Brands
+https://next-look-brands-f6438a7e.zappy5.app/thank-you
+תודה רבה על פנייתך. הודעתך התקבלה בהצלחה וצוות Next Look Brands יחזור אליך בהקדם. המשיכו לגלוש ולמצוא בגדי אופנה לגברים אונליין.
+
+## Legal & Policy
+
+### Privacy Policy
+https://next-look-brands-f6438a7e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://next-look-brands-f6438a7e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://next-look-brands-f6438a7e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Next look brands
+צור לי אתר אונליין
+
+## Target Audience
+- קניית בגדי אופנה לגברים ולילדים
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://next-look-brands-f6438a7e.zappy5.app/sitemap.xml
+- Robots: https://next-look-brands-f6438a7e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://next-look-brands-f6438a7e.zappy5.app/llms-full.txt
+- Products (JSON): https://next-look-brands-f6438a7e.zappy5.app/products.json
+- Products (Google Merchant RSS): https://next-look-brands-f6438a7e.zappy5.app/product-feed.xml
